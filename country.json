@@ -1153,6 +1153,15 @@
     "name": "Kosovo"
   },
   {
+    "capital": "Erbil",
+    "code": "iq-kr",
+    "continent": "Asia",
+    "flag_1x1": "flags/1x1/iq-kr.svg",
+    "flag_4x3": "flags/4x3/iq-kr.svg",
+    "iso": false,
+    "name": "Kurdistan Region"
+  },
+  {
     "capital": "Kuwait City",
     "code": "kw",
     "continent": "Asia",
